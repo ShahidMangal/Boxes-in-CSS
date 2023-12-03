@@ -1,0 +1,138 @@
+/* Box Dimensions */
+/* div{
+    height: 300px;
+    width: 300px;
+    background-color: #a8a800;
+}
+p {
+    height: 75%;
+    width: 75%;
+} */
+
+/* Limiting Weight */
+/* td.description {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+} */
+
+/* Limiting Height */
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+}
+    h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+    
+}
+    p {
+    min-height: 10px;
+    max-height: 70px;
+    border: 1px solid black;
+} */
+
+/* overflow */
+/* p.one {
+    overflow: hidden;
+}
+    p.two {
+    overflow: scroll;
+} */
+
+/* border width */
+/* p{
+    border-color: brown;
+    border-style: solid;
+    border-width: 1px 2px 3px 4px;
+} */
+
+/* border style */
+/* p.one {border-style: solid;}
+p.two {border-style: dotted;}
+p.three {border-style: dashed;}
+p.four {border-style: double;}
+p.five {border-style: groove;}
+p.six {border-style: ridge;}
+p.seven {border-style: inset;}
+p.eight {border-style: outset;} */
+
+/* padding */
+/* p {
+    width: 275px;
+    border: 2px solid #0088dd;
+    padding: 20px;
+    padding: 10px 10px 10px 10px;
+} */
+
+/* margin */
+/* p{
+    /* border: 2px solid blue;
+    margin: 20px;
+    margin: 10px auto 10px auto;
+} */ 
+/* p{
+    border: 2px solid red;
+    width: 200px;
+    margin: 50px;
+    padding: 50px;
+} */
+
+/* innline block */
+/* li {
+    display: inline; 
+    margin-right: 10px;
+}
+    li.coming-soon {
+    display: none;
+} */
+
+/* hiding boxes */
+/* li {
+    display: inline; 
+    margin-right: 10px;
+}
+    li.coming-soon {
+    visibility: hidden;
+} */
+
+
+/* border images */
+/* p.one{
+    border: 10px solid transparent;
+    padding: 10px;
+    border-image: url("./images/img 2.png") 11 11 11 11 round;
+} */
+
+/* box shadow */
+/* p.one{
+    width: 500px;
+    box-shadow: 5px 5px 5px 5px red;
+} */
+
+/* rounded corners */
+/* p{
+    width: 200px;
+    border: 2px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    /* border-radius: 20px 30px 40px 50px; */
+    /* background-color: violet;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 30px; */
+
+
+body{
+    background-color: black;
+}
+p{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
